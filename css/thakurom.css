@@ -2719,3 +2719,9 @@ pre { margin-top: 0; margin-bottom: 0; font: 12px "SFMono-Regular", Consolas, "L
 .highlight .w { color: #bbbbbb; }
 
 .highlight { background-color: #f8f8f8; }
+
+@media only screen and (max-width: 980px) {
+    .container {
+        width: 90%;
+    }
+}
