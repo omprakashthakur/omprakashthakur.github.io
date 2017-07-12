@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+title: Om Prakash Thakur
 <html>
 <head>
-	<title>Om Prakash Thakur</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
